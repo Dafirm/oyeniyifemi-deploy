@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/oyeniyifemi-deploy/static/css/main.da137823.css",
+    "main.js": "/oyeniyifemi-deploy/static/js/main.4c9bbfa4.js",
+    "static/media/Femi.png": "/oyeniyifemi-deploy/static/media/Femi.126c5e0c920fad05b1d6.png",
+    "static/media/femi2.png": "/oyeniyifemi-deploy/static/media/femi2.f36ea9fe20a86af17465.png",
+    "static/media/portfolio1.jpg": "/oyeniyifemi-deploy/static/media/portfolio1.1877886b850ec4cc6600.jpg",
+    "static/media/portfolio4.jpg": "/oyeniyifemi-deploy/static/media/portfolio4.35c9464eea31bc32e13c.jpg",
+    "static/media/portfolio3.jpg": "/oyeniyifemi-deploy/static/media/portfolio3.1f47c3b416d4522aa30f.jpg",
+    "static/media/femicv.pdf": "/oyeniyifemi-deploy/static/media/femicv.df69e3f76e3b1ba9b473.pdf",
+    "static/media/portfolio2.jpg": "/oyeniyifemi-deploy/static/media/portfolio2.96cc6aa3f2802e2dde4d.jpg",
+    "static/media/Dafirmlogo.png": "/oyeniyifemi-deploy/static/media/Dafirmlogo.93160406258d86990dfa.png",
+    "index.html": "/oyeniyifemi-deploy/index.html",
+    "main.da137823.css.map": "/oyeniyifemi-deploy/static/css/main.da137823.css.map",
+    "main.4c9bbfa4.js.map": "/oyeniyifemi-deploy/static/js/main.4c9bbfa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da137823.css",
+    "static/js/main.4c9bbfa4.js"
+  ]
+}
